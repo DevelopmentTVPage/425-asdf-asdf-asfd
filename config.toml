@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "adsf"
+baseURL = "https:\/\/asdf.asdf.asfd"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758403"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "asdf.asfd"
